@@ -1,13 +1,13 @@
-region,acreage km^2
-Groningen,2960
-Friesland,5749
-Drenthe,2680
-Overijssel,3421
-Flevoland,2412
-Gelderland,5137
-Utrecht,1560
-Noord-Holland,4092
-Zuid-Holland,3403
-Zeeland,2934
-Noord-Brabant,5081
-Limburg,2209
+region,acreage km^2,gemiddeld inwoneraantal
+Groningen,2960,586813	
+Friesland,5749,651459	
+Drenthe,2680,494760	
+Overijssel,3421,1166478	
+Flevoland,2412,428264	
+Gelderland,5137,2096620
+Utrecht,1560,1361093	
+Noord-Holland,4092,2887906	
+Zuid-Holland,3403,3726173	
+Zeeland,2934,385379	
+Noord-Brabant,5081,2573853	
+Limburg,2209,	1115895	
